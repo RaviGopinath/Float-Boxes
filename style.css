@@ -1,0 +1,36 @@
+.box1{
+    background-color: red;
+    width: 50%;
+    float: left;
+    height: 250px;
+}
+.box2{
+    background-color: green;
+    width: 50%;
+    float: right;
+    height: 250px;
+}
+.box3{
+    background-color: black;
+    height: 100px;
+    clear: both;
+}
+.box4{
+    background-color: gray;
+    height: 250px;
+    clear: both;
+    margin-top: -87px;
+}
+p{
+    color: white;
+    text-align: center;
+    margin-top: 87px;
+}
+.text1{
+    position: relative;
+    top: 35px;
+}
+.text2{
+    position: relative;
+    top: 111px;
+}
